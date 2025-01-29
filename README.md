@@ -5,7 +5,8 @@
 [![Kotlin Lover](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://github.com/Nantarachma)
 
 🌱 **Currently Cultivating**
-```kotlin
+```kotlin```
+
 val skills = listOf(
     "UI/UX Design 🎨", 
     "Mobile Development 📱",
