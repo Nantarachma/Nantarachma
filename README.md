@@ -5,14 +5,14 @@
 [![Kotlin Lover](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://github.com/Nantarachma)
 
 🌱 **Currently Cultivating**
-```kotlin```
-
+```kotlin
 val skills = listOf(
     "UI/UX Design 🎨", 
     "Mobile Development 📱",
     "Kotlin Multiplatform 🤖",
     "Flutter Cross-Platform ✨"
 )
+```
 
 🚀 **Tech Stack**  
 <p align="left">
@@ -41,15 +41,16 @@ val skills = listOf(
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/Nantarachma)
 
 🎯 **Current Mission**  
-```diff```
+```diff
 + Building the most user-friendly mobile app ever!
 - Reducing coffee consumption from 5 cups to 3
 + Mastering Material Design principles
-
+```
 
 ---
 
 **9. Final Call-to-Action**
-```markdown```
+```markdown
 🤝 **Let's Collaborate!**  
 If you're passionate about creating beautiful mobile experiences or want to geek out about UI animations, I'm your person!
+```
