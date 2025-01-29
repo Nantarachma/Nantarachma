@@ -51,6 +51,6 @@ val skills = listOf(
 
 **9. Final Call-to-Action**
 ```markdown
-🤝 **Let's Collaborate!**  
+🤝 Let's Collaborate!  
 If you're passionate about creating beautiful mobile experiences or want to geek out about UI animations, I'm your person!
 ```
