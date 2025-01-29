@@ -38,7 +38,7 @@ val skills = listOf(
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nantarachma)
 
 📈 **Coding Stats**  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/Nantarachma)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nantarachma&show_icons=true&theme=radical)](https://github.com/Nantarachma)
 
 🎯 **Current Mission**  
 ```diff
